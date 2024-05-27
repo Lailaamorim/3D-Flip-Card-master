@@ -1,4 +1,4 @@
-![3D-Flip-Card](imagem/Lailaa.png)
+![3D-Flip-Card](imagem/foto1.png)
 
 <h1 align="center">3D FLIP CARD</h1>
 
@@ -36,6 +36,10 @@ Pull requests are welcome. For major changes, open a competition question first 
 
 ## 👩‍💻 Author
 Laila Hamorym
+
+<p>A programação se tornou mais do que apenas uma habilidade para mim, transformando-se em uma verdadeira paixão que me impulsiona a cada dia. Desde os primeiros passos nesse universo fascinante, me encantei com a capacidade de criar soluções inovadoras e dar vida às minhas ideias por meio de códigos.
+
+Ao longo dessa jornada, tive a oportunidade de vivenciar os desafios e as recompensas que a programação proporciona. Cada problema solucionado, cada projeto concluído com sucesso, me motiva a buscar novos conhecimentos e aprimorar minhas habilidades. </P>
 
 <p>inspired by the developer Leticia Dias</p>
 
